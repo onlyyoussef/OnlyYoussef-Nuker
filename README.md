@@ -10,7 +10,7 @@
 
 ## Installation
 ```sh
-npm installl
+npm install
 node .
 ```
 
